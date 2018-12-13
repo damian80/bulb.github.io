@@ -1,0 +1,21 @@
+* {
+	margin:0;
+	padding: 0;
+    color:white;
+    font-family: 'Londrina Outline', cursive;
+}
+header {
+	background: url(photo1.jpg) center;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+} 
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+h2
